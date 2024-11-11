@@ -13,7 +13,7 @@
 - I’m currently working as a Web Developer at https://www.tbscg.com/.
 - 2-time HackYeah Finalist in 2023/2024.
 - Currently expanding my skills with **Go** by building projects and **Java** by working on AWS API in my job
-- Open to new opportunities in **Software Engineer**
+- Open to new opportunities in **Web Development**
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>

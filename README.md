@@ -85,6 +85,13 @@
 </li>
 
 <li>
+<a href="https://www.instagram.com/_budzior_/ target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=Instagram style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+
+<li>
 <a href="https://myanimelist.net/profile/Warren_Prezydent" target="_blank">
 <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt=MyAnimeList style="margin-bottom: 5px;"/>
 </a>

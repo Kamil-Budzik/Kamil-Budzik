@@ -12,7 +12,8 @@
 - Specialized in **React**, **Vue**, and frameworks like **Next.js** and **Nuxt.js**
 - I’m currently working as a Web Developer at https://www.tbscg.com/. Check my Github activity [here](https://github.com/Kamil-Budzik-TBSCG)
 - 2-time HackYeah Finalist in 2023/2024.
-- Currently expanding my skills with **Go** by building projects and **Java** by working on AWS API in my job
+- Currently expanding my skills with **Go** by building projects
+- Switching to backend/cloud work in my job (AWS, Java, Typescript)
 - Open to new opportunities in **Web Development**
 <br><br>
 

@@ -10,11 +10,12 @@
 
 - A passionate **Self-taught Software Engineer**
 - Specialized in **React**, **Vue**, and frameworks like **Next.js** and **Nuxt.js**
-- I’m currently working as a Web Developer at https://www.tbscg.com/. Check my Github activity [here](https://github.com/Kamil-Budzik-TBSCG)
+- I’m currently working as a Software Engineer at https://auctane.com/. Check my Github activity [here](https://github.com/Kamil-Budzik-Auctane)
+- I worked as a Web developer for 3 years at https://www.tbscg.com/. Check my Github activity [here](https://github.com/Kamil-Budzik-TBSCG)
 - 2-time HackYeah Finalist in 2023/2024.
-- Currently expanding my skills with **Go** by building projects
-- Switching to backend/cloud work in my job (AWS, Java, Typescript)
-- Open to new opportunities in **Web Development**
+- Currently following Backend developer path. See my progress [here](https://www.boot.dev/u/warren-president)
+- Switching to backend/cloud work in my job (C#, SQL)
+- Open to new opportunities in **Web Development** and **Engineering**
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>

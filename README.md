@@ -8,12 +8,12 @@
 
 <br>
 
-- Self-taught **Software Engineer** with 3+ years of professional experience  
+- Self-taught **Software Engineer** with 4+ years of professional experience  
 - Specialized in **React**, **Vue**, and frameworks like **Next.js** and **Nuxt.js**  
 - Currently working as a Software Engineer at [Auctane](https://auctane.com/). Check my Github activity [here](https://github.com/Kamil-Budzik-Auctane)
 - Previously worked 3 years as a Web Developer at [TBSCG](https://www.tbscg.com/). Check my Github activity [here](https://github.com/Kamil-Budzik-TBSCG)
 - 2-time **HackYeah Finalist** (2023 & 2024)  
-- Expanding into **Backend & Cloud** (C#, SQL, Go, Python). See my progress on [Boot.dev](https://www.boot.dev/u/warren-president)  
+- Expanding into **Backend & Cloud** (C#, SQL, Go, Python)
 - Open to new opportunities in **Web Development** and **Engineering**  
 <br><br>
 

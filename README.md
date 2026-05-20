@@ -1,11 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm Kamil Budzik </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-Taught+Software+Enginner"></a>
-</p>
-
-
 <br>
 
 - Self-taught **Software Engineer** with 4+ years of professional experience  
@@ -16,6 +11,27 @@
 - Expanding into **Backend & Cloud** (C#, SQL, Go, Python)
 - Open to new opportunities in **Web Development** and **Engineering**  
 <br><br>
+
+## 🚀 Featured Project
+
+### Hand-Written CSV Processing System
+
+Educational backend/system design project focused on understanding distributed systems and async processing from first principles.
+
+**Tech Stack:** Go, RabbitMQ, PostgreSQL, MinIO, Docker
+
+**Highlights:**
+
+* Built fully by hand to understand architectural trade-offs and failure modes
+* Async CSV processing pipeline using queues and workers
+* Focused on systems thinking instead of rapid feature delivery
+* Used AI as a technical reviewer and architecture discussion partner — not code generation
+* Explored async workflows, worker communication, storage systems, and failure recovery patterns
+
+🔗 Repository:
+https://github.com/Kamil-Budzik/csv-upload-backend-design
+
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
